@@ -17,6 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiftyshifter&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="shiftyshifter" /></p>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiftyshifter&show_icons=true&theme=synthwave&locale=en" alt="shiftyshifter" /></p>
+<p display="block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiftyshifter&show_icons=true&theme=synthwave&locale=en" alt="shiftyshifter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiftyshifter&theme=dark" alt="shiftyshifter" /></p>
