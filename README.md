@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alperen-üstün-96b445235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-üstün-96b445235" height="30" width="40" /></a>
-</p>
 <a href="https://alperenustun.dev" target="blank"><img align="center" src="https://i.imgur.com/QxAaaWm.png" alt="alperen-üstün-96b445235" height="30" width="80" /></a>
 </p>
 
