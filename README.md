@@ -17,6 +17,6 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenustun&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="alperenustun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiftyshifter&show_icons=true&theme=synthwave&locale=en" alt="alperenustun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenustun&show_icons=true&theme=synthwave&locale=en" alt="alperenustun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenustun&theme=dark" alt="alperenustun" /></p>
