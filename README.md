@@ -1,29 +1,87 @@
-<div style="padding: 1em 2em; background: linear-gradient(rgba(0,0,0, 0.7),rgba(0,0,0, 0.4)), url(https://i.imgur.com/qAOnZTF.gif); background-size: cover; background-position:center; width: 100vw">
-
-<h1 align="center" style="color: white; font-weight: bold; text-shadow: 0 0 2px #FAFAFA">Hi, I'm Alperen</h1>
-<h3 align="center" style="color: white; text-shadow: 0 0 1px #FAFAFA">I'm a frontend developer from Turkey</h3>
-
-<p style="color: white; margin-top: 20px">💎 I'm currently learning <span style="color: #04d9ff; font-weight: bold">React</span> and other javascript frameworks </p>
-
-<p style="color: white; margin-top: 20px">💎 You can contact me <span style="color: #04d9ff; font-weight: bold">alperen.ustun39@gmail.com</span></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alperen-üstün-96b445235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-üstün-96b445235" height="30" width="40" /></a>
-<a href="https://alperenustun.dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="alperen-üstün-96b445235" height="30" width="30" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
-
-<hr>
-
-<p><img align="center" style="width: 450px; box-shadow: 0 0 10px #F9F9F9" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenustun&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="alperenustun" /></p>
-
-<p>&nbsp;<img style="width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=alperenustun&show_icons=true&theme=synthwave&locale=en" alt="alperenustun" /></p>
-
-<p><img style="width: 450px; margin-top: 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenustun&theme=dark" alt="alperenustun" /></p>
-
+<div id="header" align="center">
+    <h1>Hi there! 👋 I'm Alperen</h1>
+</div>
+<div id="badges" align="center">
+    <a href="https://www.alperenustun.dev">
+        <img src="https://img.shields.io/badge/www.alperenustun.dev-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
+    <a href="https://www.linkedin.com/in/alperenustun/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.instagram.com/alperen.ustunn/">
+    <img src="https://img.shields.io/badge/instagram-c02b95?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+    <br>
+    <a href="https://dribbble.com/alperenustun">
+        <img src="https://img.shields.io/badge/dribbble-palevioletred?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/></a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=alperenustun&label=Profile%20views&color=0e75b6&style=flat" alt="alperenustun" />
 </div>
 
+### :man_technologist: About Me:
+
+I am a Front-end developer & UI designer who focuses on creating beautiful and functional user experiences.
+
+- :tr: I am Turkish.
+- :seedling: I'm currently learning React and other frameworks.
+- :envelope: How to reach me: <alperen.ustun39@gmail.com>
+
+<br>
+
+[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenustun&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## :book: Education:
+
+![Istanbul University](https://img.shields.io/badge/Istanbul%20University-FFF0E5?style=for-the-badge&logo=university&logoColor=1F243A)
+- Associate's Degree - Computer Programming
+
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+- [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+<br>
+- ![Meta](https://img.shields.io/badge/Meta-%230466e0?style=for-the-badge&logo=meta&logoColor=white)
+  - [Meta Front-end Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+    - [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/48E3F5UWXUU6)
+    - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/HQ5FZNPJDHTP)
+    - [Version Control](https://www.coursera.org/account/accomplishments/certificate/K9NHZM394XZJ)
+    - [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/TAX89YLC6BXL)
+    - [React Basics](https://www.coursera.org/account/accomplishments/certificate/D62NEHC69WKH)
+    
+- ![California Institute of the Arts](https://img.shields.io/badge/California%20Instute%20of%20the%20Arts-%2300a0c8.svg?style=for-the-badge&logo=calarts&logoColor=white)
+  - [UX/UI Design](https://www.coursera.org/account/accomplishments/specialization/certificate/JNACMBLAJSS9)
+    - [Visual Elements of User Interface Design](https://www.coursera.org/account/accomplishments/certificate/ND7B4KRRAPHM)
+    - [UX Design Fundamentals](https://www.coursera.org/account/accomplishments/certificate/ZGE822YEHUCP)
+    - [Web Design: Strategy and Information Architecture](https://www.coursera.org/account/accomplishments/certificate/96QS7XP89CVS)
+    - [Web Design: Wireframes to Prototypes](https://www.coursera.org/account/accomplishments/certificate/E8SU88VSTHQ3)
+ 
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+ - [CSS - The Complete Guide 2022](https://www.udemy.com/certificate/UC-266d9808-ddd7-440a-85a7-381bb5e2792e/) 
+ - [Figma - UI/UX Design Essentials](https://www.udemy.com/certificate/UC-36614458-a607-4655-8cbe-604eae1a52cd/)
+
+## :hammer_and_wrench: Languages and Tools:
+
+### :clipboard: Languages:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23DFF1FF.svg?style=for-the-badge&logo=typescript&logoColor=%232d79c7)
+
+
+### :books: Frameworks:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+
+### :hammer: Tools:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+### :art: Design:
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
