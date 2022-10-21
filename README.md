@@ -7,8 +7,6 @@
     <a href="https://www.linkedin.com/in/alperenustun/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.instagram.com/alperen.ustunn/">
-    <img src="https://img.shields.io/badge/instagram-c02b95?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-    <br>
     <a href="https://dribbble.com/alperenustun">
         <img src="https://img.shields.io/badge/dribbble-palevioletred?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/></a>
     <br>
