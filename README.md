@@ -73,6 +73,7 @@ I am a Front-end developer & UI designer who focuses on creating beautiful and f
 ### :books: Frameworks:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/next.js-%2361DAFB.svg?style=for-the-badge&logo=next.js&logoColor=%2320232a)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
