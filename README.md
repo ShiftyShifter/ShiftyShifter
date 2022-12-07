@@ -37,7 +37,7 @@ I am a Front-end developer & UI designer who focuses on creating beautiful and f
 - Associate's Degree - Computer Programming
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+- [The Frontend Developer Career Path](https://scrimba.com/certificate/u2LkeyuD/gfrontend)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 <br>
