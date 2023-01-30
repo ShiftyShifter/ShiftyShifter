@@ -31,35 +31,6 @@ I am a Front-end developer & UI designer who focuses on creating beautiful and f
 
 ---
 
-## :book: Education:
-
-![Istanbul University](https://img.shields.io/badge/Istanbul%20University-FFF0E5?style=for-the-badge&logo=university&logoColor=1F243A)
-- Associate's Degree - Computer Programming
-
-![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://scrimba.com/certificate/u2LkeyuD/gfrontend)
-
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-<br>
-- ![Meta](https://img.shields.io/badge/Meta-%230466e0?style=for-the-badge&logo=meta&logoColor=white)
-  - [Meta Front-end Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-    - [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/48E3F5UWXUU6)
-    - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/HQ5FZNPJDHTP)
-    - [Version Control](https://www.coursera.org/account/accomplishments/certificate/K9NHZM394XZJ)
-    - [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/TAX89YLC6BXL)
-    - [React Basics](https://www.coursera.org/account/accomplishments/certificate/D62NEHC69WKH)
-    
-- ![California Institute of the Arts](https://img.shields.io/badge/California%20Instute%20of%20the%20Arts-%2300a0c8.svg?style=for-the-badge&logo=calarts&logoColor=white)
-  - [UX/UI Design](https://www.coursera.org/account/accomplishments/specialization/certificate/JNACMBLAJSS9)
-    - [Visual Elements of User Interface Design](https://www.coursera.org/account/accomplishments/certificate/ND7B4KRRAPHM)
-    - [UX Design Fundamentals](https://www.coursera.org/account/accomplishments/certificate/ZGE822YEHUCP)
-    - [Web Design: Strategy and Information Architecture](https://www.coursera.org/account/accomplishments/certificate/96QS7XP89CVS)
-    - [Web Design: Wireframes to Prototypes](https://www.coursera.org/account/accomplishments/certificate/E8SU88VSTHQ3)
- 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
- - [CSS - The Complete Guide 2022](https://www.udemy.com/certificate/UC-266d9808-ddd7-440a-85a7-381bb5e2792e/) 
- - [Figma - UI/UX Design Essentials](https://www.udemy.com/certificate/UC-36614458-a607-4655-8cbe-604eae1a52cd/)
-
 ## :hammer_and_wrench: Languages and Tools:
 
 ### :clipboard: Languages:
