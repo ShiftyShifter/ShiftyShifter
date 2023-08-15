@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me:
 
-I am a Front-end developer who focuses on creating beautiful and functional user experiences.
+I am a software developer who focuses on creating beautiful and functional user experiences.
 
 - :tr: I am Turkish.
 - :seedling: I'm currently learning JavaScript frameworks and libraries.
