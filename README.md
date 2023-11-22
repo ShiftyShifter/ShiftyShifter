@@ -17,7 +17,6 @@
 I am a software developer who focuses on creating beautiful and functional user experiences.
 
 - :tr: I am Turkish.
-- :seedling: I'm currently learning JavaScript frameworks and libraries.
 - :envelope: How to reach me: <alperen.ustun39@gmail.com>
 
 <br>
